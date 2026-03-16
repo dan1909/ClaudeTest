@@ -1,0 +1,8 @@
+node_modules/
+uploads/*
+!uploads/.gitkeep
+thumbnails/*
+!thumbnails/.gitkeep
+data/*.db
+dist/
+.env

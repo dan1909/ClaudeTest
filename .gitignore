@@ -1,0 +1,8 @@
+node_modules/
+.claude/
+data/
+uploads/
+thumbnails/
+dist/
+.env
+*.db
